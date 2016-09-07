@@ -1,14 +1,3 @@
-# Brands Database MySQL Dump
+# Brands Database
 
-This is a mysql dump of over 7000+ brands you can use for your projects. 
-### Version
-1.0.0
-
-### Installation
-Just download the mysql dump file and import it using tools like phpmyadmin (https://www.phpmyadmin.net/) or MySQL Workbench (https://www.mysql.com/products/workbench/). You can also import the file into your database using following terminal command (works in mac / linux).
-
-```sh
-
-mysqldump -u username -p dbname > brands.sql
-
-```
+A list of 7143 brands in a simple text file with one item per line.
