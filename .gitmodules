@@ -1,0 +1,6 @@
+[submodule "data/places"]
+	path = places
+	url = git@github.com:MatthiasWinkelmann/geographic-places-database.git
+[submodule "data/names"]
+	path = names
+	url = git@github.com:MatthiasWinkelmann/firstname-lastname-database.git
