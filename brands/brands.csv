@@ -2622,8 +2622,7 @@ JUMP
 Jump Apparel
 Jump Girl
 Jumping Beans
-Junk Food');
-INSERT INTO `brands` (`id`, `brand`) VALUES
+Junk Food
 Junya Watanabe
 Just A Cheap Shirt
 Just Cavalli
@@ -5072,8 +5071,7 @@ Horizon Organic
 Horse Play
 Hospital's Choice
 Hot Kid
-Hot Wheels');
-INSERT INTO `brands` (`id`, `brand`) VALUES
+Hot Wheels
 Hot Wheels Car Maker
 House of Marbles
 Huffy
